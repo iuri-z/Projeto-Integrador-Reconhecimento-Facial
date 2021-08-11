@@ -2,11 +2,11 @@
 
 ## 📕 Descrição
 > Reconhecimento Facial no uso de Equipamentos Faciais é um programa que alia tecnologias de redes neurais
-(fazendo uso da biblioteca Open Source Keras) com inteligência artificial a fim de detectar máscaras em 
-rostos humanos. O projeto foi elaborado por alunos do Instituto Federal de Santa Catarina para o contemplar
-o Projeto Integrador do Curso Técnico Integrado de Informática. Com a biblioteca de GUI nativa do Python, 
-Tkinter, foi criada uma interface gráfica na qual é possível o usuário iniciar o programa e modificar o 
-volume de um alerta sonoro integrado ao programa.
+(fazendo uso da biblioteca Open Source Keras) com inteligência artificial, a fim de detectar máscaras em 
+rostos humanos. O projeto foi elaborado por alunos do Instituto Federal de Santa Catarina, Câmpus Gaspar, 
+para contemplar o Projeto Integrador do Curso Técnico Integrado de Informática. Com uma biblioteca GUI 
+nativa do Python, Tkinter, foi criada uma interface gráfica na qual é possível o usuário iniciar o programa
+e modificar o volume de um alerta sonoro integrado ao programa.
 
 
 ## ✍ Autores
