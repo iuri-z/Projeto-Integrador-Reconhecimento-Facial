@@ -1,11 +1,11 @@
 # -- coding: utf-8 --
-from tkinter import *
-from PIL import ImageTk, Image
-from colour import Color
-#import alerta_sonoro
-import popUpMessage
+from tkinter import * # GUI nativo do python
+from PIL import ImageTk, Image # responsavel pela entrada de imagens para a linguagem e fornece recursos de edicao
+from colour import Color # permite atribuir cores rgb a um objeto
+import popUpMessage # classe responsavel por apresentar um popup antes de iniciar a aplicacao em si
+import pygame # responsavel pela reproducao e edicao de arquivos de som
 import os
-import pygame
+
 
 red = Color('#6b0000')
 
