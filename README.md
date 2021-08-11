@@ -1,6 +1,9 @@
 # ***Reconhecimento Facial***
 
 ## 📕 Descrição
+Reconhecimento Facial no uso de Equipamentos Faciais é um programa que alia tecnologias de redes neurais
+(fazendo uso da biblioteca Open Source Keras)
+
 
 ## ✍ Autores
 > Adriel Antunes  
