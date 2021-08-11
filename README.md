@@ -44,5 +44,8 @@ python telaInicial.py
 | Implementação de um menu | 12.05.2021 | ✔ |
 | Integração do FaceMaskDetection ao menu | 04.06.2021 | ✔ |
 | Estilização do menu | 23.06.2021 | ✔ |
+| Implementação do alerta sonoro | 16.07.2021 | ✔ |
+| Implementação da Barra de Volume | 11.08.2021 | ✔ |
+
 
 ## 🔑 Resultados
