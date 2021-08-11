@@ -15,7 +15,10 @@
 |||
 | :------- | :--- |
 | Python | https://www.python.org/ |
-| OpenCV | https://opencv.org/ |  
+| OpenCV | https://opencv.org/ | 
+| TensorFlow | https://www.tensorflow.org/ |  
+| Keras | https://keras.io/ |  
+
 
 
 ## 📝 Instalação e Funcionamento
